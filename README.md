@@ -1,7 +1,7 @@
-[![MasterHead](https://tribalsystems.uk/public/images/XsFwC/masthead-code-on-screen.webp)](https://rishavchanda.io)
+[![MasterHead](https://image.shutterstock.com/image-photo/web-development-concept-person-using-260nw-1890313726.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Peter Mungai</h1>
 <h3 align="center">A passionate frontend developer and a QA Software Tester from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - 🔭 I’m currently working on **Learning to use React in relation to Javascript libraries and Bootstrap CSS Framework**
 
